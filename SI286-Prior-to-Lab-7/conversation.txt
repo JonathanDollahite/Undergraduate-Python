@@ -1,0 +1,28 @@
+# Conversation copied from the chatbot2.py file
+
+MyBot: Hello friend, what's your name?
+Human : Tony Stark
+MyBot: Hello, Tony Stark, how can I help you?
+Human : I think I want some food
+MyBot: You're a very thoughtful person!
+Human : when will my girlfriend get home
+MyBot: What is time, really?
+Human : why didn't your answer make sense
+MyBot: Because that's just how it is, friend.
+Human : that's a good answer at least
+MyBot: There is no good while there is no liberty
+Human : absolutely true. maybe the dant will have mercy on us
+MyBot: Dant? Don't you mean Warden?
+Human : haha you're getting funnier by the minute. I just want some liberty
+MyBot: Give me liberty or give me COMRATS!
+Human : where is kolob?
+MyBot: Kolob is a star or planet described in the Book of Abraham, a sacred text of the Latter Day Saint movement. Several Latter Day Saint denominations hold the Book of Abraham to have been translated from an Egyptian papyrus scroll by Joseph Smith, the founder of the movement.
+Human : what is the Book of Abraham?
+MyBot: The Book of Abraham is a work produced between 1835 and 1842 by Joseph Smith based, he said, on Egyptian papyri purchased from a traveling mummy exhibition. According to Smith, the book was "a translation of some ancient records [...] purporting to be the writings of Abraham, while he was in Egypt, called the Book of Abraham, written by his own hand, upon papyrus".
+Human : who is Joseph Smith?
+MyBot: Joseph Smith Jr. (December 23, 1805 – June 27, 1844) was an American religious leader and founder of Mormonism and the Latter Day Saint movement.
+Human : how old is john kerry?
+MyBot: John Kerry is 78 years old, give or take a year:)
+Human : very interesting
+MyBot: Tell me more.
+Human : bye
